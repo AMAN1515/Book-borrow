@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Book Store</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="setProfile">SET PROFILE</string>
+    <string name="profile">Profile</string>
+    <string name="book_image">book_image</string>
+    <string name="book_name">BOOK NAME</string>
+    <string name="author_name">AUTHOR NAME</string>
+    <string name="add_book">ADD BOOK</string>
+    <string name="my_books">MY BOOKS</string>
+    <string name="drawer_open">OPEN</string>
+    <string name="drawer_close">CLOSED</string>
+    <string name="recycler_item_image_view_for_book">recycler item image view for book</string>
+    <string name="tag">TAG</string>
+    <string name="saved_books">SAVED BOOKS</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="update">UPDATE</string>
+    <string name="edit_tag">edit tag</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="update_book">UPDATE BOOK</string>
+    <string name="save_book">SAVE BOOK</string>
+    <string name="search_books">SEARCH BOOKS....</string>
+    <string name="view_profile">VIEW PROFILE</string>
+    <string name="book_store">BOOK STORE</string>
+</resources>

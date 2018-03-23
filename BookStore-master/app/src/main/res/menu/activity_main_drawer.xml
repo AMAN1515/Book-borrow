@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_books"
+            android:icon="@drawable/my_books"
+            android:title="MY BOOKS" />
+        <item
+            android:id="@+id/saved_books"
+            android:icon="@drawable/cart"
+            android:title="SAVED BOOKS" />
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/profile"
+                android:title="Profile" />
+            <item
+                android:id="@+id/Logout"
+                android:icon="@drawable/log_out"
+                android:title="LOGOUT" />
+        </menu>
+    </item>
+
+</menu>
